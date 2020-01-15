@@ -105,4 +105,6 @@ A quick summary of the results:
 
 ## Acknowledgements
 
-A big thanks to the Udacity team for setting up the motivation to do this by including "writing a blog post" as a project in the Data Science Nanodegree program. I found the youtube dataset an interesting one to explore after browsing through Kaggle datasets. Thank you Kaggle for hosting and user "datasnaek" for providing such an interesting dataset which motivated the analysis.
+- A big thanks to the Udacity team for setting up the motivation to do this by including "writing a blog post" as a project in the Data Science Nanodegree program.
+- I found the youtube dataset an interesting one to explore after browsing through Kaggle datasets. Thank you Kaggle for hosting and user ```datasnaek``` for providing such an interesting dataset which motivated the analysis.
+- A shoutout to stackoverflow users [joe-kington](https://stackoverflow.com/users/325565/joe-kington) and [jsgounot](https://stackoverflow.com/users/5016055/jsgounot) for their answers which were used in the code (also referenced in docstring of the code)
