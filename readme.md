@@ -4,7 +4,9 @@ Analysis of trending videos data from Youtube.
 
 ## Data source
 
-Data sourced from Kaggle - [link](https://www.kaggle.com/datasnaek/youtube-new)
+Trending videos data sourced from Kaggle - [link](https://www.kaggle.com/datasnaek/youtube-new)
+
+India holidays data sourced from https://www.timeanddate.com/holidays/india
 
 ## Acknowledgements
 
