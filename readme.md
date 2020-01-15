@@ -1,6 +1,6 @@
 # Analysis of trending videos on Youtube India
 
-Analysis of trending videos data from Youtube. Please check out the [blog post](https://www.kaggle.com/datasnaek/youtube-new). 
+Analysis of trending videos data from Youtube. Please check out the [blog post](https://medium.com/@md047/what-are-the-types-of-videos-that-trend-on-youtube-cadcebf51115). 
 
 ## Objective
 
